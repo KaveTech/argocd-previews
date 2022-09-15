@@ -20,7 +20,7 @@ spec:
           host: "pr-devops-toolkit-1.kavehome.com.cip.io"
       version: v3
     path: helm
-    repoURL: https://github.com/KaveTech/argocd-previews.git
+    repoURL: https://github.com/vfarcic/devops-toolkit.git
     targetRevision: HEAD
   syncPolicy:
     automated:
